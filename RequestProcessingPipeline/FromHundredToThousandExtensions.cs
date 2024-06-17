@@ -1,6 +1,6 @@
 ﻿namespace RequestProcessingPipeline
 {
-    public static class FromHundredToThousand
+    public static class FromHundredToThousandExtensions
     {
         public static IApplicationBuilder UseFromHundredToThousand(this IApplicationBuilder builder)
         {
